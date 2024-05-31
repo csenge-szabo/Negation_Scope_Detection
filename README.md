@@ -5,7 +5,7 @@ Selin Acikel, Murat Ertas, Guo Ningxuan, Csenge Szabo
 
 ## Introduction
 
-This repository contains scripts related to negation scope detection and evaluation as described in the *SEM 2012 Shared Task. Our task was to preprocess the STARSEM CD-SCO corpus, extract features from the data, use feature-based and transformer-based classifiers to carry out negation scope detection, and evaluate the models' peformance in a token-based and span-based manner.
+This repository contains scripts related to negation scope detection and evaluation as described in the *SEM 2012 Shared Task. This study is the final outcome of the project work for the Applied Text Mining Methods Master's course at VU Amsterdam. Our task was to preprocess the STARSEM CD-SCO corpus, extract features from the data, use feature-based and transformer-based classifiers to carry out negation scope detection, and evaluate the models' peformance in a token-based and span-based manner.
 
 For the full project report, read `Negation_Scope_Detection_Report.pdf`.
 
